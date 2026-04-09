@@ -34,7 +34,9 @@ Python version 3.8 or higher recommended
 
 # Notes
 All regression code is pre-configured for the panel_data.xlsx dataset. Modify file paths and variable names as needed for your specific analysis.
+
 Ensure API keys are securely stored and not hard-coded in llm_api.py for production use.
+
 For reproducibility, all do-files and Python scripts include detailed comments for each step of the analysis.
 
 # Contact
